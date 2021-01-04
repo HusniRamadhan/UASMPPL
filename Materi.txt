@@ -1,0 +1,16 @@
+Anggota Kelompok
+1. Dwiki Syahputra
+2. Husni Ramadhan
+
+1. Manajemen risiko proyek : Proses sistematis untuk merencanakan, mengidentifikasi, menganalisis, dan merespon risiko proyek. Tujuannya untuk meningkatkan peluang dan dampak peristiwa positif, dan mengurangi peluang dan dampak peristiwa yang merugikan proyek.
+Metode manajemen risiko terbagi dalam 2 metode, pengendalian dan pendanaan. Setiap metode terbagi lagi menjadi beberapa macam. Pengendalian risiko terbagi menjadi 5 macam yaitu :
+a.Risk Avoidance : merupakan metode yang dilakukan dengan cara menghindari hal-hal yang menimbulkan risiko. Misalnya: demi menghindari kerugian, sebuah perusahaan memutuskan untuk tidak lagi memproduksi beberapa produk yang biaya produksinya mahal.
+b.Segregation : metode ini dilakukan dengan cara memisahkan orang atau barang yang dapat menyebabkan kerugian. Misalnya: memisahkan beberapa karyawan di perusahaan yang tengah berkonflik, entah itu memutasi mereka ke divisi atau kantor cabang lain, atau merumahkan mereka untuk sementara waktu.
+c.Loss Prevention : adalah metode manajemen risiko yang dilakukan dengan cara melakukan pencegahan terhadap suatu risiko. Misalnya: perusahaan melakukan pengecekan laporan keuangan setiap bulan, untuk mencegah terjadinya penggelapan uang perusahaan.
+d.Loss Reduction : metode ini dilakukan dengan mengurangi dampak kerugian yang terjadi pada suatu hal. Misalnya: sebuah perusahaan mengurangi biaya produksinya, supaya produksinya tidak menimbulkan kerugian.
+e.Non-Insurance Transfer : ini merupakan metode manajemen risiko yang dilakukan dengan memindahkan risiko ke pihak lain, dengan catatan bahwa pihak lain tersebut siap menanggung risikonya dan bersedia tidak diberi asuransi oleh perusahaan. Contoh: guna menghindari risiko barang produksinya pecah belah, sebuah perusahaan melemparkan risiko tersebut kepada jasa pengantar barang, dan pihak jasa pengantar barang tersebut pun sepakat melakukannya.
+Sementara pendanaan risiko terbagi 2 macam, yaitu :
+a.Risk Transfer : metode pendanaan dan manajemen risiko ini sebeutulnya mirip dengan non-insurance transfer. Bedanya, metode satu ini mengharuskan perusahaan memberi asuransi kepada pihak lain yang menanggung risiko. Misalnya: memberi asuransi kepada pihak distributor produk perusahaan.
+b.Risk Retention : merupakan metode pendanaan dan manajemen risiko yang dilakukan dengan cara memberi ganti rugi kepada suatu risiko. Misalnya: perusahaan rela mengembalikan uang yang dibayar pelanggan, bila produk yang diterima konsumen rusak ataupun cacat.
+
+2.
