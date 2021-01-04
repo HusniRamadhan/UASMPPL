@@ -13,7 +13,7 @@ Sementara pendanaan risiko terbagi 2 macam, yaitu :
 a.Risk Transfer : metode pendanaan dan manajemen risiko ini sebeutulnya mirip dengan non-insurance transfer. Bedanya, metode satu ini mengharuskan perusahaan memberi asuransi kepada pihak lain yang menanggung risiko. Misalnya: memberi asuransi kepada pihak distributor produk perusahaan.
 b.Risk Retention : merupakan metode pendanaan dan manajemen risiko yang dilakukan dengan cara memberi ganti rugi kepada suatu risiko. Misalnya: perusahaan rela mengembalikan uang yang dibayar pelanggan, bila produk yang diterima konsumen rusak ataupun cacat.
 
-2.Cara pengembangan tim proyek perangkat lunak yaitu Tim proyek system mungkin mulai mencari paket perangkat lunak komersial yang sesuai atau mendukung spesifikasi rancangan system dan berjalan pada rancangan arsitektur komputernya 
+2. Cara pengembangan tim proyek perangkat lunak yaitu Tim proyek system mungkin mulai mencari paket perangkat lunak komersial yang sesuai atau mendukung spesifikasi rancangan system dan berjalan pada rancangan arsitektur komputernya 
 Tim proyek perangkat lunak terdiri dari :
 •	Manajer Proyek (Project Manager)
 •	Pimpinan Proyek (Project Leader)
@@ -21,15 +21,41 @@ Tim proyek perangkat lunak terdiri dari :
 •	Programmer Ahli (The Guru Programmer)
 •	Programmer Pemula (The Junior Programmer)
 
-3.Manajemen Kualitas adalah aspek-aspek dari fungsi manajemen keseluruhan yang menetapkan dan 
-menjalankan kebijakan kualitas suatu perusahaan/organisasi. Dalam rangka mencukupkan kebutuhan pelanggan dan 
-ketepatan waktu dengan anggaran yang hemat dan ekonomis, seorang manager proyek harus memasukkan dan mengadakan 
-pelatihan management kualitas. Kualitas perangkat lunak adalah pemenuhan terhadap kebutuhan fungsional dan kinerja 
-yang didokumentasikan secara eksplisit, pengembangan standar yang didokumentasikan secara eksplisit, dan sifat-sifat
-implisit yang diharapkan dari sebuah software yang dibangun secara profesional
+3.Manajemen Kualitas adalah aspek-aspek dari fungsi manajemen keseluruhan yang menetapkan dan menjalankan kebijakan kualitas suatu perusahaan/organisasi. Dalam rangka mencukupkan kebutuhan pelanggan dan ketepatan waktu dengan anggaran yang hemat dan ekonomis, seorang manager proyek harus memasukkan dan mengadakan pelatihan management kualitas. Kualitas perangkat lunak adalah pemenuhan terhadap kebutuhan fungsional dan kinerja yang didokumentasikan secara eksplisit, pengembangan standar yang didokumentasikan secara eksplisit, dan sifat-sifat implisit yang diharapkan dari sebuah software yang dibangun secara profesional
 
-4.Manajemen Konfigurasi Perangkat Lunak atau biasa disebut Software Configuration Management adalah serangkaian 
-aktifitas penelusuran dan pengendalian yang dimulai ketika proyek berjalan sampai tidak dioperasikan lagi. 
-Sebuah aktifitas untuk mengidentifikasi konfigurasi dari sebuah sistem dengan tujuan untuk mengontrol 
-perubahan secara sistematik terhadap konfigurasi, pemeliharaan integritas dan pengulangan dari konfigurasi 
-seluruhnya selama daur hidup sistem.
+4. Manajemen Konfigurasi Perangkat Lunak atau biasa disebut Software Configuration Management adalah serangkaian aktifitas penelusuran dan pengendalian yang dimulai ketika proyek berjalan sampai tidak dioperasikan lagi. Sebuah aktifitas untuk mengidentifikasi konfigurasi dari sebuah sistem dengan tujuan untuk mengontrol 
+perubahan secara sistematik terhadap konfigurasi, pemeliharaan integritas dan pengulangan dari konfigurasi seluruhnya selama daur hidup sistem.
+
+Insight Webinar JSC
+Aplikasi yang dikembangkan JSC
+Anggota Tim JSC 
+Memastikan aplikasi yang dikembangkan digunakan oleh masyarakat dan pemerintah
+Insight lain terkait manajemen proyek dan SDLC secara luas
+
+
+5. JSC merupakan Unit pengelola di bawah dinas komunikasi informatika dan statistik provinsi. JSC terdiri dari sepuluh pegawai negeri sipil dan kurang lebih sepuluh ribu tenaga ahli. Terdapat 6 indikator Smart City yang harus dicapai, yaitu :
+a. Smart Mobility,
+b. Smart People,
+c. Smart Economy,
+d. Smart Environtment,
+e. Smart Governance, dan
+f. Smart Living.
+Dalam mencapai indikator tersebut JSC membangun sistem yang menghubungkan pemerintah dengan masyarakat. JSC memiliki portal berbasis peta yang dapat diakses, dalam portal tersebut ada berbagai informasi yang merupakan hasil integrasi setiap organisasi perangkat daerah (OPD). Berikut informasi yang dapat diakses pada portal JSC :
+a. Laporan Masyarakat Melalui Qlue.
+b. Integrasi CCTV yang dapat diakses oleh masyarakat secara realtime.
+c. Info harga tanah.
+d. Info harga pangan.
+e. Program #KakiLimaJakarta yang merupakan kolaborasi dengan Indo Relawan, Zomato dan Go Food untuk pedagang KUMKMP.
+f. Akses info ketersediaan kamar kosong pada rumah sakit. 
+g. Info lokasi ambulan gratis secara realtime.
+Aplikasi yang dikembangkan oleh JSC :
+a. Jakarta Kini (Jaki)
+b. Cepat Respon Masyarakat (CRM)
+Ada 5 tim yang terdapat pada JSC, yaitu :
+a. Development Team
+b. Data and Analytics Team
+c. Communication Team
+d. Field and Operational Team
+e. Monitoring and Evaluation Team
+Laporan yang diterima oleh masyarakat akan terlebih dahulu di cek informasinya dan melakukan sinkronisasi pada informasi tersebut, informasi yang berupa foto, deskripsi laporan dan lokasi akan dicocokkan dan jika tidak cocok maka SKPD aplikasi CRM akan dimasukkan pada menu laporan tidak jelas.
+Dalam memastikan perangkat lunak yang JSC kembangkan digunakan oleh pemerintah dan masyarakat, JSC pertama bekerja sama dengan pihak ketiga, yaitu pihak pengembang aplikasi Qlue yang memberikan penawaran seperti iming-imingan berhadiah yang dapat menarik perhatian masyarakat untuk menggunakan JSC.
