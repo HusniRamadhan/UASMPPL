@@ -26,13 +26,6 @@ Tim proyek perangkat lunak terdiri dari :
 4. Manajemen Konfigurasi Perangkat Lunak atau biasa disebut Software Configuration Management adalah serangkaian aktifitas penelusuran dan pengendalian yang dimulai ketika proyek berjalan sampai tidak dioperasikan lagi. Sebuah aktifitas untuk mengidentifikasi konfigurasi dari sebuah sistem dengan tujuan untuk mengontrol 
 perubahan secara sistematik terhadap konfigurasi, pemeliharaan integritas dan pengulangan dari konfigurasi seluruhnya selama daur hidup sistem.
 
-Insight Webinar JSC
-Aplikasi yang dikembangkan JSC
-Anggota Tim JSC 
-Memastikan aplikasi yang dikembangkan digunakan oleh masyarakat dan pemerintah
-Insight lain terkait manajemen proyek dan SDLC secara luas
-
-
 5. JSC merupakan Unit pengelola di bawah dinas komunikasi informatika dan statistik provinsi. JSC terdiri dari sepuluh pegawai negeri sipil dan kurang lebih sepuluh ribu tenaga ahli. Terdapat 6 indikator Smart City yang harus dicapai, yaitu :
 a. Smart Mobility,
 b. Smart People,
