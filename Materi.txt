@@ -1,6 +1,7 @@
 Anggota Kelompok
 1. Dwiki Syahputra
 2. Husni Ramadhan
+3. Aditya Wijaya 
 
 1. Manajemen risiko proyek : Proses sistematis untuk merencanakan, mengidentifikasi, menganalisis, dan merespon risiko proyek. Tujuannya untuk meningkatkan peluang dan dampak peristiwa positif, dan mengurangi peluang dan dampak peristiwa yang merugikan proyek.
 Metode manajemen risiko terbagi dalam 2 metode, pengendalian dan pendanaan. Setiap metode terbagi lagi menjadi beberapa macam. Pengendalian risiko terbagi menjadi 5 macam yaitu :
